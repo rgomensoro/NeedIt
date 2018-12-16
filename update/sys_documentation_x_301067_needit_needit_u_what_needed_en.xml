@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_what_needed" label="What Needed" language="en" table="x_301067_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <help/>
+            <hint/>
+            <label>What Needed</label>
+            <language>en</language>
+            <name>x_301067_needit_needit</name>
+            <plural>What Needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-16 21:09:45</sys_created_on>
+            <sys_id>15be7d234f92e3004a38c4b18110c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>What Needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_301067_needit">d353e1af4f12e3004a38c4b18110c79d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">d353e1af4f12e3004a38c4b18110c79d</sys_scope>
+            <sys_update_name>sys_documentation_x_301067_needit_needit_u_what_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-16 21:09:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
