@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_must_have_by" label="Must have by" language="en" table="x_301067_needit_historic_needit_data_new">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_must_have_by</element>
+            <help/>
+            <hint/>
+            <label>Must have by</label>
+            <language>en</language>
+            <name>x_301067_needit_historic_needit_data_new</name>
+            <plural>Must have by</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-06 20:59:05</sys_created_on>
+            <sys_id>f9a50ed6db322300ca5585184b961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Must have by</sys_name>
+            <sys_package display_value="NeedIt" source="x_301067_needit">d353e1af4f12e3004a38c4b18110c79d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">d353e1af4f12e3004a38c4b18110c79d</sys_scope>
+            <sys_update_name>sys_documentation_x_301067_needit_historic_needit_data_new_u_must_have_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-06 20:59:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
